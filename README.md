@@ -13,7 +13,8 @@ There are lot of complexity when we are using or moving to microservices archite
 
 When transitioning to a microservices architecture, addressing the complexities associated with security, operational management, inter-service communication, and team expertise is crucial. Here’s how to tackle these challenges:
 
-1. Compromised Security
+##1. Compromised Security
+
 Implement Strong Authentication and Authorization:
 
 Use robust authentication mechanisms (e.g., OAuth 2.0, JWT) to secure service-to-service communication.

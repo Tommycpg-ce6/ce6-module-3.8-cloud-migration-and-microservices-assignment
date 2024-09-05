@@ -21,15 +21,18 @@ Implement Strong Authentication and Authorization:
 
 Use robust authentication mechanisms (e.g., OAuth 2.0, JWT) to secure service-to-service communication.
 Apply fine-grained authorization to control access at the service level.
+
 Secure Communication Channels:
 
 Encrypt data in transit using TLS/SSL to protect data exchanged between services.
+
 Service Isolation:
 
 Use network policies and service meshes (e.g., Istio) to restrict communication between services and enforce security policies.
 Regular Security Audits and Penetration Testing:
 
 Conduct regular security assessments to identify vulnerabilities and ensure compliance with security standards.
+
 Implement Logging and Monitoring:
 
 Centralize logging and monitoring to detect and respond to security incidents promptly.

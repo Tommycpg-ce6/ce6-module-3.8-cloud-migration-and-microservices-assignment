@@ -79,3 +79,5 @@ Encourage Knowledge Sharing:
 
 Promote knowledge sharing within the organization through workshops, documentation, and collaborative tools.
 By addressing these aspects systematically, organizations can effectively manage the complexities of microservices architecture and ensure a successful transition.
+
+![Screenshot (708)](https://github.com/user-attachments/assets/54e8ec64-8bc0-4c70-8432-3d65778d9b6b)

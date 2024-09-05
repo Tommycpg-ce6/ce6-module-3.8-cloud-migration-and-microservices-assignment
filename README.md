@@ -8,6 +8,9 @@ There are lot of complexity when we are using or moving to microservices archite
 - Requires Team Expertise
 
 
+
+
+
 When transitioning to a microservices architecture, addressing the complexities associated with security, operational management, inter-service communication, and team expertise is crucial. Here’s how to tackle these challenges:
 
 1. Compromised Security

@@ -44,7 +44,9 @@ Utilize container orchestration platforms like Kubernetes to manage the lifecycl
 Centralized Monitoring and Logging:
 
 Employ monitoring solutions (e.g., Prometheus, Grafana) and centralized logging (e.g., ELK Stack) to gain visibility into the system’s health and performance.
-3. Inter-Service Communication Breakdown
+
+## 3. Inter-Service Communication Breakdown
+
 Use Reliable Communication Patterns:
 
 Implement patterns like API gateways to manage and route traffic efficiently.
@@ -59,7 +61,9 @@ Establish and document clear API contracts to ensure consistent and reliable com
 Service Discovery:
 
 Implement service discovery mechanisms (e.g., Consul, Eureka) to dynamically locate and interact with services.
-4. Requires Team Expertise
+
+## 4. Requires Team Expertise
+
 Invest in Training and Development:
 
 Provide training programs and resources for your team to gain expertise in microservices architecture, tools, and best practices.

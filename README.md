@@ -31,7 +31,9 @@ Conduct regular security assessments to identify vulnerabilities and ensure comp
 Implement Logging and Monitoring:
 
 Centralize logging and monitoring to detect and respond to security incidents promptly.
-2. Increased Operational Complexity
+
+## 2. Increased Operational Complexity
+
 Adopt Automation Tools:
 
 Use CI/CD pipelines to automate testing, deployment, and scaling of services.
